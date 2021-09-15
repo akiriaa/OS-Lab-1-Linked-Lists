@@ -1,5 +1,5 @@
 // list/list.h
-// 
+//  
 // Interface definition for linked list.
 //
 // <Akiria Anderson>
